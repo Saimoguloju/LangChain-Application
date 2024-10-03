@@ -20,3 +20,4 @@ LLaMA 3.2 is a large language model developed by Meta AI. It is a smaller and mo
 These are just a few of the many generative AI concepts that are available today. Each concept has its own unique strengths and weaknesses, and the best choice for a particular task will depend on the specific requirements of that task.
 
  
+### [Q & A Application using Llama 3.2](https://huggingface.co/spaces/MogulojuSai/Q-A_application)

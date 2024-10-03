@@ -22,4 +22,4 @@ These are just a few of the many generative AI concepts that are available today
  
 ### [Q & A Application using Llama 3.2](https://huggingface.co/spaces/MogulojuSai/Q-A_application)
 
-![image alt](
+![image alt](https://github.com/Saimoguloju/LangChain-Application/blob/main/LangChain%20Q%26A%20application/Screen%20Shot.png)

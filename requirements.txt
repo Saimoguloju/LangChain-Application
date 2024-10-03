@@ -1,0 +1,4 @@
+Langchain
+langchain_groq
+huggingface_hub
+streamlit
